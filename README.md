@@ -6,7 +6,7 @@
 </H1>
 
 ## Aim: 
-   To construct a python program to implement approximate inference using Gibbs Sampling.</br>
+   To construct a python program to implement approximate inferencE using Gibbs Sampling.</br>
 ## Algorithm:
    Step 1: Bayesian Network Definition and CPDs:<br>
     <ul> <li>Define the Bayesian network structure using the BayesianNetwork class from pgmpy.models.</li>
